@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/sarvarboltaboyev/programming/CS50/Lecture 1/points'
+relocations:     []
+...
