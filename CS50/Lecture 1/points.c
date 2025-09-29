@@ -1,14 +1,10 @@
 #include<stdio.h>
+#include<string.h>
 
 
 int main(void) 
 { 
-    int counter = 0;
-    while (counter < 3)
-    {
-         printf("meow.\n");
-         counter++;
-    }
+    int counter = 23;
+    printf("%i", counter);
     
-   
 }
