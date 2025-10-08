@@ -6,8 +6,12 @@
 //
 
 #include <iostream>
- 
+//
+void Log(const char* message);
+int multiply(int a, int b);
+//
 int main() {
-    std::cout << "Hello, world" << std::endl;
+    Log("Hello, world");
+    multiply(34, 1);
     std::cin.get();
 }
